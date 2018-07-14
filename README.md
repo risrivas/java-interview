@@ -36,6 +36,7 @@
 * [TCP/IP Sockets in Java](https://www.amazon.com/TCP-Sockets-Java-Second-Programmers/dp/0123742552)
 
 ##### Miscellaneous
+* [Java Programming Interviews Exposed](https://www.amazon.com/Java-Programming-Interviews-Exposed-Markham/dp/1118722868?tag=agentmedia-20)
 * [Java Cookbook](http://shop.oreilly.com/product/0636920026518.do)
 
 ##### Algorithms
@@ -46,3 +47,11 @@
 * [Introduction to Algorithms 3rd edition](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
 
 ## External Links
+* [Interview Syllabus](https://www.smartrecruiters.com/VDartInc2/102372692-senior-java-developer)
+* [Cracking the coding interview youtube](https://www.youtube.com/playlist?list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt)
+* [HiredInTech](https://www.hiredintech.com/)
+* [Leetcode](https://leetcode.com/problemset/all/)
+* [Hacker rank](https://www.hackerrank.com/dashboard)
+* [Toptal interview questions](https://www.toptal.com/java/interview-questions)
+* [20 Tricky Java Interview Questions](https://www.agent.media/grow/java-interview-questions/)
+* [Javin Paul](https://www.codementor.io/savingfunda/20-java-interview-questions-and-answers-from-investment-banks-98ghl6frw)
