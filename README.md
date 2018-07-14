@@ -47,6 +47,7 @@
 * [Introduction to Algorithms 3rd edition](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
 
 ## External Links
+* [Geeks for Geeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 * [Interview Syllabus](https://www.smartrecruiters.com/VDartInc2/102372692-senior-java-developer)
 * [Cracking the coding interview youtube](https://www.youtube.com/playlist?list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt)
 * [HiredInTech](https://www.hiredintech.com/)
