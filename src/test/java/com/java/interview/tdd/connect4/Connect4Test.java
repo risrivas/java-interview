@@ -121,7 +121,7 @@ public class Connect4Test {
    @Test
    public void when4HorizontalDiscsAreConnectedThenPlayerWins() {
       int column;
-      for (column = 0; column < 3; column++) {
+      for (column = 1; column <= 3; column++) {
          connect4.putDiscInColumn(column); // R
          connect4.putDiscInColumn(column); // G
       }
@@ -130,4 +130,29 @@ public class Connect4Test {
       connect4.putDiscInColumn(column); // R
       assertThat(connect4.getWinner(), is("R"));
    }
+
+   @Test
+   public void whenDiagonalTopRightToBottomLeftAreConnectedThenThatPlayerWins() {
+      int[] gameplay =
+         new int[]{1, 2, 2, 3, 4, 3, 3, 4, 4, 5, 4};
+      for (int column : gameplay) {
+         connect4.putDiscInColumn(column);
+      }
+      assertThat(connect4.getWinner(), is("R"));
+   }
+
+   @Test
+   public void whenDiagonalTopLeftToBottomRightAreConnectedThenThatPlayerWins() {
+      int[] gameplay =
+         new int[]{3, 4, 2, 3, 2, 2, 1, 1, 1, 1};
+      for (int column : gameplay) {
+         connect4.putDiscInColumn(column);
+      }
+      assertThat(connect4.getWinner(), is("G"));
+   }
+
+
+    /*
+   Should refactor the code now and implement the main method
+    */
 }

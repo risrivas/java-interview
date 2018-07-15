@@ -25,7 +25,7 @@ For further information on the game, visit Wikipedia
    one disc every time.
 4. We want feedback when either an event or an error occurs within the game.
    The output shows the status of the board after every move.
-5. When no more discs can be inserted, the game fnishes, and it is considered
+5. When no more discs can be inserted, the game finishes, and it is considered
    a draw.
 6. If a player inserts a disc and connects more than three discs of his color in a
    straight vertical line, then that player wins.
